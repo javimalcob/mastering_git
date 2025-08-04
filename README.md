@@ -1,2 +1,4 @@
-Hello Git Review
-  -añadi esto desde feature-branch
+## Heyo, welcome to everyone to my git guide!
+
+  - Juan aquí
+  - añadi esto desde feature-branch
