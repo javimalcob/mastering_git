@@ -1,3 +1,3 @@
 ## BIENVENIDOS A GIT
-  - Esto viene de `dev-javier`
-  - añadi esto desde feature-branch
+  - Juan aquí
+  -añadi esto desde feature-branch
