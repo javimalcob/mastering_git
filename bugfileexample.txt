@@ -1,0 +1,1 @@
+Este es un archivo bug de prueba  para restaurar una version anterior en el git
