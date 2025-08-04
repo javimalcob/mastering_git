@@ -1,4 +1,3 @@
-## Heyo, welcome to everyone to my git guide!
-
+## BIENVENIDOS A GIT
   - Juan aquí
-  - añadi esto desde feature-branch
+  -añadi esto desde feature-branch
